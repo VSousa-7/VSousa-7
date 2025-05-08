@@ -1,7 +1,7 @@
 ## Olá! Eu sou Vinicius Sousa
 
 - 🔭 Hoje trabalho com Monitoramento de Redes.
-- 🌱 Atualmente estudando e conhecendo Ferramentas de monioramento de Redes.
+- 🌱 Atualmente estudando e conhecendo Ferramentas de monitoramento.
 
 ### 🤖 Linguagens e Tecnologias
 
