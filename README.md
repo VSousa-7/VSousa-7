@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho com Monitoramento de Redes.
 - 🌱 Atualmente estudando e conhecendo Ferramentas de monioramento de Redes.
--->
+
 ### 🤖 Linguagens e Tecnologias
 
 <div style="display: inline_block"><br>
